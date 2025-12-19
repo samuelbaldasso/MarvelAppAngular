@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Samuel Baldasso
 
-- Project Link: [https://github.com/samuelbaldasso/marvel-app-angular](https://github.com/samuelbaldasso/marvel-app-angular)
+- Project Link: [https://github.com/samuelbaldasso/MarvelAppAngular](https://github.com/samuelbaldasso/MarvelAppAngular)
